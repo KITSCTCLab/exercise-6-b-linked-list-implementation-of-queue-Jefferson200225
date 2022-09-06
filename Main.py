@@ -10,7 +10,8 @@ class Queue:
     self.last = None
 
   def enqueue(self, data) -> None:
-    # Write your code here
+    # Write your
+    code here
 
   def dequeue(self) -> None:
     # Write your code here
